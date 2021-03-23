@@ -30,6 +30,8 @@ I want to be a:
 - **Photographer**: I have a Canon EOS M50 as a beginnier, check my portfolio in [Instagram](https://www.instagram.com/cb_hua/);
 - **Vlogger**:  I hold a DJI Yunhe stabilizer to record the world; 
 - **Free Living Man**: I am going to live every minute of it. 
----
+
+
+
 <p align="center">Thanks for visiting.</p>
 <p align="center"></a> <a><img alt="Follower" src="https://img.shields.io/github/followers/cbhua.svg?style=social&label=Follow&maxAge=2592000"/></a></p>
