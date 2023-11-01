@@ -1,10 +1,10 @@
 ## 🧑🏼‍🚀 Hi! Here is Chuanbo. 
 
-<a href="https://github.com/cbhua" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"/></a> <a href="https://twitter.com/huachuanbo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"/></a> <a href="cbhua@kaist.ac.kr" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/cb_hua/" target="_blank"><img alt="Ins" src="https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://telegram.org/cbhua" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?&style=flat-square&logo=telegram&logoColor=white"/></a> <a href="https://timegg.top" target="_blank"><img alt="TIMEGG" src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
+<a href="https://github.com/cbhua" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"/></a> <a href="https://twitter.com/huachuanbo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"/></a> <a href="cbhua@kaist.ac.kr" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/cb_hua/" target="_blank"><img alt="Ins" src="https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=instagram&logoColor=white"/></a> 
 
 Welcome to my profile.
 
-I am now a first year's Ph.D. candidate in **Korea Advanced Institute of Science and Technology (KAIST)**. I am interested in  machine learning about graph neural networks, anomaly detection and high-dimensional partial differential equations simulator and solver.  
+I am now a second year's Ph.D. candidate in **Korea Advanced Institute of Science and Technology (KAIST)**. I am interested in  machine learning about graph neural networks, anomaly detection and high-dimensional partial differential equations simulator and solver.  
 
 ### 🎓 Experiences
 
